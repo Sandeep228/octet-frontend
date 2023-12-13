@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:8000/";
-
+const url = "https://octet.onrender.com/";
 
 export const jobdata = async () => {
     try {
